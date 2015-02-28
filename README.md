@@ -1,8 +1,26 @@
-# CTFScoreboard
-CI (CodeIgniter) based Capture The Flag Scoreboard
+CTF Scoreboard
+=====================
 
-*Customization*
+Description
+----------------
+CTF Scoreboard is an application based on CI (CodeIgniter) Framework and Boostrap front-end.
 
-system
-  `--> app
-  		`--> scoreboard
+Author
+----------------
+@semprix - Dax Labrador
+
+Directory structure
+-------------------
+
+	[root]
+	| - css
+    | - fonts
+    | - images
+    | - js
+    | - system (CI system)
+    	|
+    	`- app 
+    	   |
+    	   `- scoreboard (main app)
+    |
+    `- index.php
